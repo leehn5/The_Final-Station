@@ -1,0 +1,33 @@
+{
+    "Inven": {
+        "FOOD": {
+            "count": 5,
+            "name": "FOOD",
+            "price": 10,
+            "type": 0
+        },
+        "GOLD KEY": {
+            "count": 0,
+            "name": "GOLD KEY",
+            "price": 1,
+            "type": 4
+        },
+        "MEDKIT": {
+            "count": 3,
+            "name": "MEDKIT",
+            "price": 20,
+            "type": 1
+        },
+        "PISTOL AMMO": {
+            "count": 2,
+            "name": "PISTOL AMMO",
+            "price": 15,
+            "type": 2
+        }
+    },
+    "ammo": 6,
+    "isBattery": false,
+    "magazine": 6,
+    "money": 102,
+    "prevScene": "ground"
+}
